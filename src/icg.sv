@@ -13,4 +13,4 @@ module icg_cell (
   
   end
   assign clk_gated= clk_in & en_latched;
-endmdoule
+endmodule
